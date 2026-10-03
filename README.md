@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Zhiyar Mandi 👋
 
-<!--
-**zhiyarmandi/zhiyarmandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Front-End Developer
 
-Here are some ideas to get you started:
+I'm a Front-End Developer focused on building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into clean and functional interfaces and continuously improving my skills through real-world projects.
+
+### 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+- Next.js
+- Tailwind CSS
+- Git & GitHub
+
+### 🚀 Currently
+
+- Building real-world Front-End projects
+- Improving my React and TypeScript skills
+- Learning advanced Next.js concepts
+- Looking for Junior Front-End opportunities
+
+### 📫 Connect with me
+
+- GitHub: [@zhiyarmandi](https://github.com/zhiyarmandi)
